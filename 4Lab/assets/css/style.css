@@ -11,11 +11,9 @@
 	right: 50px;
 }
 #button {
-	position: absolute;
 	height: 30px;
-	width: 150px;
-	left: 220px;
-	top: 17px;
+	width: 120px;
+  margin-top: 15px;
 	-webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
